@@ -1,0 +1,63 @@
+﻿body{
+	background-image:url('cloud.jpg');
+	background-repeat:no-repeat;
+	background-position:left-bottom;
+	background-size:100% 100%;
+}
+h1{
+	width:100%;
+	color:white;
+	font-family:lato;
+	font-size:50px;
+	text-align:center;
+	text-shadow:1px 2px black;
+}
+h2{
+	font-size:25px;
+	color:white;
+	text-align:center;
+	margin-top:95px;
+	font-family:georgia;
+}
+table{
+	font-family:lato;
+	border-collapse:collapse;
+	width:60%;
+	text-align:center;
+	margin-top:80px;
+}
+th{
+	font-size:20px;
+	text-align:center;
+	background-color:#6BBE30;
+	padding:8px;
+}
+td{
+	text-align:center;
+	font-size:15px;
+	padding:8px;
+}
+tr:nth-child(odd){
+	background-color:#6BBE30;
+}
+tr:nth-child(even){
+	background-color:#DDEAF0;
+}
+.container{
+	text-align:center;
+	padding-top:40px;
+}
+.footer{
+	position:fixed;
+	left:0;
+	bottom:0;
+	width:100%;
+	background-color:#6BBE30;
+	color:white;
+	text-align:center;
+}
+
+
+
+
+
